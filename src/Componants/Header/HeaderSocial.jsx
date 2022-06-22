@@ -5,9 +5,9 @@ import { AiFillGithub } from "react-icons/ai";
 export default function HeaderSocial() {
   return (
     <div className='header__socials'>
-        <a href='' target='_blank'><AiFillLinkedin /></a>
-        <a href='' target='_blank'><SiFiverr /></a>
-        <a href='' target='_blank'><AiFillGithub /></a>
+        <a href='https://www.linkedin.com/in/rishabh-choudhary-701743181/' target='_blank'><AiFillLinkedin /></a>
+        <a href='https://www.fiverr.com/rishabh_57?up_rollout=true' target='_blank'><SiFiverr /></a>
+        <a href='https://github.com/rishabh572000' target='_blank'><AiFillGithub /></a>
     </div>
   )
 }

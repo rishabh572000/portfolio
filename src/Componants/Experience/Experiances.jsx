@@ -31,6 +31,13 @@ export default function Experiances() {
             <article className='experience__details'>
               <FaAward className='experience__detailes-icon' /> 
               <div>
+              <h4>BRNDBUZZ</h4>
+              <small className='text-light'>Web Developer (Feb 2021, March 2022)</small>
+              </div>
+            </article>
+            <article className='experience__details'>
+              <FaAward className='experience__detailes-icon' /> 
+              <div>
               <h4>Freelancer (Fiverr)</h4>
               <small className='text-light'>Web developer (June 2020, December 2021)</small>
               </div>
