@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://github.com/rishabh572000/portfolio.git",
+  "homepage": "https://rishabh572000.github.io/portfolio/",
   "private": true,
   "dependencies": {
     "@ant-design/charts": "^1.3.6",
