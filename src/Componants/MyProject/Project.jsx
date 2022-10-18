@@ -1,7 +1,7 @@
 import React from 'react';
 import { BsCheck2Circle} from "react-icons/bs";
-import bootOne from '../../media/boot.png';
-import ecome from '../../media/ecom.png';
+import bootOne from '../../Assest/boot.png';
+import ecome from '../../Assest/ecom.png';
 import './project.css';
 
 export default function Project() {
