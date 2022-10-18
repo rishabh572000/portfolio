@@ -5,24 +5,24 @@ import { Pie } from '@ant-design/plots';
 const DemoPie = () => {
   const data = [
     {
-      type: 'HTML',
-      value: 27,
-    },
-    {
-      type: 'CSS',
-      value: 25,
+      type: 'React',
+      value: 21,
     },
     {
       type: 'JavaScript',
       value: 22,
     },
     {
-      type: 'React',
-      value: 21,
-    },
-    {
       type: 'AntDesign',
       value: 13,
+    },
+    {
+      type: 'HTML',
+      value: 27,
+    },
+    {
+      type: 'CSS',
+      value: 25,
     },
     {
       type: 'Bootstrap',

@@ -16,7 +16,7 @@ return (
    <About />
    <Experiances />  
    <Service />
-   {/* <MyProject />   */}
+   <MyProject />  
    <Contact />
    <Footer />
  </>

@@ -15,7 +15,7 @@ export default function Nav() {
       <a href='#about' onClick={()=>setActive('#about')} className={active==='#about'? 'active': ''}><ImUser /></a>
       <a href='#Experiances' onClick={()=>setActive('#Experiances')} className={active==='#Experiances'? 'active': ''}><BsJournalBookmarkFill /></a>
       <a href='#service' onClick={()=>setActive('#service')} className={active==='#service'? 'active': ''}><MdDesignServices /></a>
-      {/* < a href='#project' onClick={()=>setActive('#project')} className={active==='#project'? 'active': ''}><AiOutlineFundProjectionScreen /></a> */}
+      <a href='#project' onClick={()=>setActive('#project')} className={active==='#project'? 'active': ''}><AiOutlineFundProjectionScreen /></a>
       <a href='#contact' onClick={()=>setActive('#contact')} className={active==='#contact'? 'active': ''}><AiFillContacts /></a> 
     </nav>
   )

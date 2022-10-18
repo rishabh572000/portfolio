@@ -25,16 +25,16 @@ export default function Experiances() {
               <FaAward className='experience__detailes-icon' /> 
               <div>
               <h4>NovelVeritas(Hoicko)</h4>
-              <small className='text-light'>React Developer (March 2022, now)</small>
+              <small className='text-light'>React Developer (January 2022, now)</small>
               </div>
             </article>
-            <article className='experience__details'>
+            {/* <article className='experience__details'>
               <FaAward className='experience__detailes-icon' /> 
               <div>
               <h4>BRNDBUZZ</h4>
               <small className='text-light'>Web Developer (Feb 2021, March 2022)</small>
               </div>
-            </article>
+            </article> */}
             <article className='experience__details'>
               <FaAward className='experience__detailes-icon' /> 
               <div>
