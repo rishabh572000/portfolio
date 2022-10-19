@@ -29,9 +29,6 @@ export default function Project() {
       <ProjectComp text='Chat Boot' image={bootOne} link='https://rishabh572000.github.io/chatboots/'/>
      
 
-        
-
-         
       </div>
   </section>
   )
